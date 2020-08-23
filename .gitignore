@@ -3,6 +3,7 @@
 .vscode/
 
 # comentário.
+setup/__pycache__/
 venv/
 
 # comentário.
